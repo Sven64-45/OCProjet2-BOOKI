@@ -605,7 +605,7 @@ form {
 }
 
 /* Small devices (phones, less than 768px) */
-@media (min-width: 320px) and (max-width: 767.98px) 
+@media (max-width: 767.98px) 
 {
 
     body {
@@ -859,4 +859,5 @@ form {
 
 .footer-container {
     flex-direction: column;
+}
 }
